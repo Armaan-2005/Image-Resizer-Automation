@@ -278,7 +278,6 @@ Confirm the deployment when Terraform requests approval. Follow any project-spec
 **Mohammed Armaan Bakshi**
 
 - GitHub: [@Armaan-2005](https://github.com/Armaan-2005)
-- Repository: [Image-Resizer-Automation](https://github.com/Armaan-2005/Image-Resizer-Automation)
 
 ---
 
